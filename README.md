@@ -1,5 +1,5 @@
 # MyVideoPlayer_with_Qt
-Standard video player with some extra features, using the Qt framework
+Standard video player with some extra features, using the Qt framework (Vers. 5)
 
 Extra features:
 - Open a direction and load all contained video files into a playlist
